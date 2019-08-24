@@ -10,6 +10,8 @@
 - node liri.js movie-this '<>' (type a movie in between the arrows)
 - node liri.js do-what-it-says 
 
+* If you type something that's invalid, then you get a response saying "Error occured."
+
 ## Here are some examples:
 - https://github.com/tnazmee/Liri-Node-App/blob/master/screenshots/spotify-this-song.png
 - https://github.com/tnazmee/Liri-Node-App/blob/master/screenshots/movie-this.png
