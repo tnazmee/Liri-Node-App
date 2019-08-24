@@ -10,7 +10,7 @@
 - node liri.js movie-this '<>' (type a movie in between the arrows)
 - node liri.js do-what-it-says 
 
-* Here are some examples:
-- screenshots\spotify-this-song.png
-- screenshots\movie-this.png
-- screenshots\do-what-it-says.png
+## Here are some examples:
+- https://github.com/tnazmee/Liri-Node-App/blob/master/screenshots/spotify-this-song.png
+- https://github.com/tnazmee/Liri-Node-App/blob/master/screenshots/movie-this.png
+- https://github.com/tnazmee/Liri-Node-App/blob/master/screenshots/do-what-it-says.png
